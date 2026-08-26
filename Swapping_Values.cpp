@@ -10,7 +10,7 @@ int main()
     a = a + b;
     b = a - b;
     a = a - b;
-    cout << "Values After Swappung is:";
+    cout << "Values After Swapping is:";
     cout << "\na" << a << endl;
     cout << "b" << b << endl;
     return 0;
